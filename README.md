@@ -8,7 +8,7 @@ hw2: algo: DQN, env: lunar-lander
 
 hw3: algo: A2C, env: pendulum
 
-hw4: algo: A2C, env: half-cheetah
+hw4: algo: PPO, env: half-cheetah
 
 hw5: algo: DDPG, env: ant
 
